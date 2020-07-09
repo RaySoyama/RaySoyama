@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hiya,
+I'm a systems programmer that specializes in video games~
+I do a lot of game jams, and you can see a bunch of those repo's here~
 
+I love video games, and keyboards~
 <!--
 **RaySoyama/RaySoyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
